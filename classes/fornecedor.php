@@ -2,7 +2,7 @@
 
 /**
  * Criação da classe que auxiliara na manipulação das $_SESSION. 
- * @PARAM $SESSAO    
+ * @PARAM $SESSAO   tudo bugadoooo 
  */
 class fornecedor {
     ## Nomes criados(propriedades) baseado nos campos do cadastro_fornecedor.
